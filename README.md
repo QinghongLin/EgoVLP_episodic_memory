@@ -1,7 +1,5 @@
 This repository includes the codebase for adapting EgoVLP features to NLQ & MQ, Ego4D challenges. 
 
-The training log, config, and checkpoints are both released.
-
 # NLQ (VSLNet)
 
 - Extract video features `python3 run/test_nlq.py --subsample 'video'`
